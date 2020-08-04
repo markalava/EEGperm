@@ -8,4 +8,7 @@ This repository contains R code used in the article:
 
 Please see the file 'LICENSE' in this directory for the licence and terms of use. 
 
-Please cite the original paper and this repository if you make use of these methods and/or the code. Thanks!
+Please cite the original paper and this repository if you make use of these methods and/or the code. Note, though, that the functions `binary.v` and `perm.t.test3` in 'R/t_tests_Section_3.1_Functions_and_Example.R' (the permuation t-tests) are taken from Venables and Ripley (2002, Sect 5.7), slightly modified in the latter case, so recommend checking and citing that reference if you use those functions. 
+
+## References
+Venables and Ripley (2002) *Modern Applied Statistics with S*, 4th edn. New York: Springer
