@@ -4,6 +4,11 @@
 ###
 ### AUTHOR:             Mark C. Wheldon (biostatmark@gmail.com)
 ###
+###                     Some functions based on code from Venables,
+###                     W.N. & Ripley, B.D. (2002). Modern Applied
+###                     Statistics with S, 4th edn. New York:
+###                     Springer.
+###
 ### DESC:               t tests used in Section 3.1 of the paper:
 ###                     Wheldon M. C., Anderson M. J. & Johnson
 ###                     B. W. "Identifying Treatment Effects In
@@ -12,8 +17,7 @@
 ###                     Permutation Tests And Multiple Comparisons."
 ###                     Aust. N.Z. J. Stat 49(4), 2007, 397--413.
 ###
-### LICENCE:            Copyright (c) 2020 Mark C Wheldon,
-###                     Released under the MIT Licence. See
+### LICENCE:            Released under the MIT Licence. See
 ### https://github.com/markalava/multi-channel-eeg-perm-tests/blob/master/LICENSE
 ###
 ################################################################################
