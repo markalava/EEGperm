@@ -1,4 +1,4 @@
-# multi-channel-eeg-perm-tests
+# EEGperm
 
 This repository contains R code used in the article:
 
